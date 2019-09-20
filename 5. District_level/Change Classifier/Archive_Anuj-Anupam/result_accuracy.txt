@@ -1,0 +1,45 @@
+n=10
+MSL
+Baseline: 67.29% (4.53%)
+FC
+Baseline: 85.33% (4.93%)
+BF
+Baseline: 72.18% (6.16%)
+MSW
+Baseline: 81.29% (5.41%)
+EMP
+Baseline: 87.03% (6.07%)
+ASSET
+Baseline: 77.25% (5.51%)
+
+
+
+n=5
+MSL
+Baseline: 66.62% (2.82%)
+FC
+Baseline: 85.16% (3.73%)
+BF
+Baseline: 73.36% (4.56%)
+MSW
+Baseline: 81.45% (2.15%)
+EMP
+Baseline: 87.01% (3.10%)
+ASSET
+Baseline: 76.57% (2.65%)
+
+best
+MSL
+Baseline: 67.96% (3.23%) LinearSVC
+FC
+Baseline: 86.34% (2.15%) LinearSVC and LogisticRegression
+BF
+Baseline: 75.71% (2.67%) LinearSVC
+MSW
+Baseline: 81.45% (2.15%) NeuralNetwork
+EMP
+Baseline: 87.02% (0.82%) LogisticRegression
+ASSET
+Baseline: 77.41% (5.23%) DecisionTree i=45
+
+

@@ -1,0 +1,1065 @@
+----------------------------------------------------------------------------
+
+
+
+ASSET
+count the no of values in each class
+1    319
+0    274
+dtype: int64
+LogisticRegressionCLF
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+LogisticRegression
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+RandomForestClassifier
+('I is:', 10)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 11)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 12)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 13)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 14)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 15)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 16)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 17)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 18)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+('I is:', 19)
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+LinearSVC
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+KNeighborsClassifier
+0.790893760539629
+              precision    recall  f1-score   support
+
+           0       0.80      0.72      0.76       274
+           1       0.78      0.85      0.81       319
+
+   micro avg       0.79      0.79      0.79       593
+   macro avg       0.79      0.79      0.79       593
+weighted avg       0.79      0.79      0.79       593
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+
+
+MSL
+count the no of values in each class
+ 0    404
+ 1    180
+-1      9
+dtype: int64
+LogisticRegressionCLF
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+LogisticRegression
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+RandomForestClassifier
+('I is:', 10)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 11)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 12)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 13)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 14)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 15)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 16)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 17)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 18)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+('I is:', 19)
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+LinearSVC
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+KNeighborsClassifier
+0.6677908937605397
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00         9
+           0       0.68      0.96      0.80       404
+           1       0.33      0.04      0.08       180
+
+   micro avg       0.67      0.67      0.67       593
+   macro avg       0.34      0.33      0.29       593
+weighted avg       0.57      0.67      0.57       593
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+
+
+MSW
+count the no of values in each class
+ 0    483
+ 1    100
+-1     10
+dtype: int64
+LogisticRegressionCLF
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+LogisticRegression
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+RandomForestClassifier
+('I is:', 10)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 11)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 12)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 13)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 14)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 15)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 16)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 17)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 18)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+('I is:', 19)
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+LinearSVC
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+KNeighborsClassifier
+0.8145025295109612
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        10
+           0       0.81      1.00      0.90       483
+           1       0.00      0.00      0.00       100
+
+   micro avg       0.81      0.81      0.81       593
+   macro avg       0.27      0.33      0.30       593
+weighted avg       0.66      0.81      0.73       593
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+
+
+BF
+count the no of values in each class
+ 0    430
+ 1    149
+-1     14
+dtype: int64
+LogisticRegressionCLF
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+LogisticRegression
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+RandomForestClassifier
+('I is:', 10)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 11)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 12)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 13)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 14)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 15)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 16)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 17)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 18)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+('I is:', 19)
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+LinearSVC
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+KNeighborsClassifier
+0.7655986509274874
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        14
+           0       0.81      0.91      0.85       430
+           1       0.59      0.42      0.49       149
+
+   micro avg       0.77      0.77      0.77       593
+   macro avg       0.46      0.44      0.45       593
+weighted avg       0.73      0.77      0.74       593
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+
+
+FC
+count the no of values in each class
+ 0    512
+ 1     58
+-1     23
+dtype: int64
+LogisticRegressionCLF
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+LogisticRegression
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+RandomForestClassifier
+('I is:', 10)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 11)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 12)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 13)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 14)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 15)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 16)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 17)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 18)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+('I is:', 19)
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+LinearSVC
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+KNeighborsClassifier
+0.8617200674536256
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        23
+           0       0.86      1.00      0.93       512
+           1       0.00      0.00      0.00        58
+
+   micro avg       0.86      0.86      0.86       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.75      0.86      0.80       593
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
+
+
+EMP
+count the no of values in each class
+ 0    516
+-1     49
+ 1     28
+dtype: int64
+LogisticRegressionCLF
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+LogisticRegression
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+RandomForestClassifier
+('I is:', 10)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 11)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 12)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 13)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 14)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 15)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 16)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 17)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 18)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+('I is:', 19)
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+LinearSVC
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+KNeighborsClassifier
+0.8701517706576728
+              precision    recall  f1-score   support
+
+          -1       0.00      0.00      0.00        49
+           0       0.87      1.00      0.93       516
+           1       0.00      0.00      0.00        28
+
+   micro avg       0.87      0.87      0.87       593
+   macro avg       0.29      0.33      0.31       593
+weighted avg       0.76      0.87      0.81       593
+
+----------------------------------------------------------------------------
