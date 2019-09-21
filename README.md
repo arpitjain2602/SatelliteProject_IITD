@@ -6,10 +6,11 @@ The whole project is divided into 2 parts
 2. Village Level
 
 ## Folder Structure
-Papers
+
+### Papers
 Contains research papers for related work, papers that we sent to various conferences, plots & tables for those papers
 
-Ground_Truth
+### Ground_Truth
 The socio-economic indicators that we used are
 1. BF (Bathroom Facility)
 2. CHH (Condition of Household)
