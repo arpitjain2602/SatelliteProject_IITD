@@ -23,3 +23,28 @@ District Level - Cleaned data from 2001 and 2011 census of India
 Contains both actual values and classification labels that we used in our analysis
 
 Village Level - Have data from 2011 census only
+
+
+### Village_level
+Folder for village level analysis
+
+1. Process Data:
+	- Contains files for downloading village images from Google Earth Engine (to be included soon)
+	- Breaking the state level files into village level files using village shape files (link for shapefiles to be provided soon)
+	- Processing those village level files (removing duplicates and the files for which we don't have ground truth)
+2. Cross-sectional:
+	- Classification:
+		- 12 Bands - codes for incorporating 12 bands in the ResNet50 model (Code in PyTorch)
+		- 3 Bands - codes for analysis on 3 bands. Scripts from ICTD Lab PC to be included here
+		- PCA - code written by me and Ashutosh to to first PCA reduce the images (12 bands) and then perform classification
+
+
+### District_level
+Folder for district level analysis
+
+1. Results: (Trained models with parameters, scores, input_features and targets)
+	- Contains results for cross-sectional classification (2001 and 2011), Change-Classifier, Temporal Transferability
+2. download_preprocess: 
+	- Download data using Google Earth Engine
+	- Break statefiles into district files using district shapefiles
+	- 
