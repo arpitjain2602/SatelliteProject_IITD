@@ -47,4 +47,9 @@ Folder for district level analysis
 2. download_preprocess: 
 	- Download data using Google Earth Engine
 	- Break statefiles into district files using district shapefiles
-	- 
+	- Cleaning and removing redundant files
+	- Creating features from district files using quantile binning
+3. Cross_sectional:
+	- Contains scripts for model training on 2011 and 2001 data; Predicting cross year
+4. Change classifier:
+	- scripts for training model on predictions to predict for future/past
